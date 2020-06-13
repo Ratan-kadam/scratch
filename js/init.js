@@ -9,3 +9,4 @@ function fetchApi(url) {
 }
 
 fetchApi('https://www.trackcorona.live/api/countries');
+fetchApi('https://api.covid19api.com/summary');
